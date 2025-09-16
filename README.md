@@ -78,14 +78,10 @@ Q quick toss to nearest bin
 Esc pause
 
 ## 📂 Project Setup aligned to course topics
-Unity 2022.3.x LTS  
+Unity (version)
 C# scripts for PlayerController, BabyAIController, ThrowManager, CatchZone, BombController  
 NavMesh for AI pathing  
 Animator controllers for baby and babysitter with parameters speed, isHolding, isThrowing, isCalm  
 Physics materials and layers configured in Project Settings  
 GitHub Classroom repository with regular commits and meaningful messages  
 Readme and in game debug UI showing FPS, state names, and safety meter for assessment
-
-**Installation**
-```bash
-git clone https://github.com/your-username/naughty-baby.git
